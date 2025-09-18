@@ -28,7 +28,7 @@ MySQL, MongoDB, Excel
 Flask, Streamlit, ReportLab, Librosa, Transformers, Wav2Vec2, Hugging Face, ngrok, WandB  
 
 **Core Skills:**  
-AI, ML, DL, NLP, LLMs, Computer Vision, Data Analysis, Predictive Modeling  
+Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Large Language Model, Computer Vision, Data Analysis, Predictive Modeling  
 
 ---
 
