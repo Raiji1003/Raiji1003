@@ -19,21 +19,26 @@
 Python, R, SQL  
 
 **Frameworks & Libraries:**  
-TensorFlow, Keras, PyTorch, Scikit-learn, YOLO, OpenCV, RCNN  
+TensorFlow, Keras, PyTorch, Scikit-learn, YOLO, OpenCV, RCNN, Langflow, Transformers, Hugging Face, tiktoken, PyPDF2, Pandas, Requests
 
 **Databases:**  
-MySQL, MongoDB, Excel  
+MySQL, MongoDB, Excel, AstraDB
 
 **Tools & Platforms:**  
-Flask, Streamlit, ReportLab, Librosa, Transformers, Wav2Vec2, Hugging Face, ngrok, WandB  
+Flask, Streamlit, ReportLab, Librosa, Transformers, Wav2Vec2, Hugging Face, ngrok, WandB, AstraPy, Gemini 2.0 Flash 
 
 **Core Skills:**  
-Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Large Language Model, Computer Vision, Data Analysis, Predictive Modeling  
+Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Large Language Model, Computer Vision, Data Analysis, Predictive Modeling, Retrieval-Augmented Generation (RAG), Text Summarization, Information Retrieval
 
 ---
 
 ## 📌 Featured Projects  
 
+### 📚 [AI Research Paper Assistant].(https://github.com/Raiji1003/AI-Research-Paper-Assistant)
+- Built an AI-powered research paper assistant using Langflow, AstraDB, and Gemini 2.0 Flash (LLM) for intelligent summarization and retrieval.
+- Implemented token-safe chunking (tiktoken), keyword extraction, and context-based related paper recommendations through a modular Langflow pipeline.
+- Deployed an interactive Streamlit dashboard integrated with Langflow API for real-time PDF analysis and AI-generated insights.
+- 
 ### 🔒 [True Echo AI – Fraud Detection](https://github.com/Raiji1003/True-Echo-AI)  
 - Built a **multimodal fraud detection system** combining audio, email, and SMS analysis.  
 - Implemented **Wav2Vec2 Transformers** for audio and integrated **NLP pipelines with SVC** for fraud detection.  
