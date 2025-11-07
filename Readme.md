@@ -34,7 +34,7 @@ Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Proce
 
 ## 📌 Featured Projects  
 
-### 📚 [AI Research Paper Assistant].(https://github.com/Raiji1003/AI-Research-Paper-Assistant)
+### 📚 [AI Research Paper Assistant](https://github.com/Raiji1003/AI-Research-Paper-Assistant)
 - Built an AI-powered research paper assistant using Langflow, AstraDB, and Gemini 2.0 Flash (LLM) for intelligent summarization and retrieval.
 - Implemented token-safe chunking (tiktoken), keyword extraction, and context-based related paper recommendations through a modular Langflow pipeline.
 - Deployed an interactive Streamlit dashboard integrated with Langflow API for real-time PDF analysis and AI-generated insights.
