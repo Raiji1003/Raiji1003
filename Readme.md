@@ -38,7 +38,7 @@ Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Proce
 - Built an AI-powered research paper assistant using Langflow, AstraDB, and Gemini 2.0 Flash (LLM) for intelligent summarization and retrieval.
 - Implemented token-safe chunking (tiktoken), keyword extraction, and context-based related paper recommendations through a modular Langflow pipeline.
 - Deployed an interactive Streamlit dashboard integrated with Langflow API for real-time PDF analysis and AI-generated insights.
-- 
+  
 ### 🔒 [True Echo AI – Fraud Detection](https://github.com/Raiji1003/True-Echo-AI)  
 - Built a **multimodal fraud detection system** combining audio, email, and SMS analysis.  
 - Implemented **Wav2Vec2 Transformers** for audio and integrated **NLP pipelines with SVC** for fraud detection.  
